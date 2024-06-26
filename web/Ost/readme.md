@@ -1,17 +1,17 @@
 Stadtteile in DD-Ost:
 
-* Blasewitz
-* Dobritz
-* Grosszschachwitz
-* Gruna
-* Kleinzschachwitz
-* Laubegast
-* Leuben
-* Meusslitz
-* Niedersedlitz
-* Ost
-* Seidnitz
-* Sporbitz
-* Striesen
-* Tolkewitz
-* Zschieren
+* [Blasewitz](/web/Ost/Blasewitz)
+* [Dobritz](/web/Ost/Dobritz)
+* [Grosszschachwitz](/web/Ost/Grosszschachwitz)
+* [Gruna](/web/Ost/Gruna)
+* [Kleinzschachwitz](/web/Ost/Kleinzschachwitz)
+* [Laubegast](/web/Ost/Laubegast)
+* [Leuben](/web/Ost/Leuben)
+* [Meusslitz](/web/Ost/Meusslitz)
+* [Niedersedlitz](/web/Ost/Niedersedlitz)
+* [Ost](/web/Ost/Ost)
+* [Seidnitz](/web/Ost/Seidnitz)
+* [Sporbitz](/web/Ost/Sporbitz)
+* [Striesen](/web/Ost/Striesen)
+* [Tolkewitz](/web/Ost/Tolkewitz)
+* [Zschieren](/web/Ost/Zschieren)
